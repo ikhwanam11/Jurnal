@@ -6,3 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
+.vscode/settings.json
+test-fetch.js
+metadata.json
+*.swp
+*.swo
+*~
